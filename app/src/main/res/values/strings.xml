@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logueo</string>
+    <string name="preference_file_key">com.tuaplicacion.NOMBRE_DE_TU_APP.PREFERENCIAS</string>
+    <string name="saved_user_key">loginGuardado</string>
+</resources>
